@@ -50,7 +50,7 @@ Microservices with Spring Boot, React frontend, and Docker-based deployment.
 ## 🗂 Tech Stack
 | Layer            | Technology                                   |
 |------------------|----------------------------------------------|
-| Backend          | Java 17, Spring Boot, Spring Cloud           |
+| Backend          | Java 21, Spring Boot, Spring Cloud           |
 | Frontend         | React 18, TypeScript, Redux Toolkit          |
 | Database         | PostgreSQL (primary), Redis (caching), MongoDB (images)       |
 | Messaging        | Kafka (future event streaming)               |
@@ -67,8 +67,8 @@ Microservices with Spring Boot, React frontend, and Docker-based deployment.
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/freshbazaar.git
-cd freshbazaar
+git clone [text](https://github.com/ajax-07/FreshBazaar.git)
+cd FreshBazaar
 
 # Start backend services
 docker-compose up --build
