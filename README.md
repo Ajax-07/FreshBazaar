@@ -67,7 +67,7 @@ Microservices with Spring Boot, React frontend, and Docker-based deployment.
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/freshbazaar.git
+git clone https://github.com/ajax-07/FreshBazaar.git
 cd freshbazaar
 
 # Start backend services
