@@ -12,7 +12,7 @@ Instead of walking from stall to stall, customers can **see live product rates**
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17-green.svg)
 ![React](https://img.shields.io/badge/React-18-blue.svg)
-![Build](https://github.com/Ajax-07/freshbazaar/actions/workflows/ci.yml/badge.svg)
+![Build](https://github.com/ajax-07/freshbazaar/actions/workflows/ci.yml/badge.svg)
 
 ### ✨ Key Features (MVP)
 - **Trader Portal** – Create profiles, upload products, update prices & availability.
